@@ -2,6 +2,7 @@
 
 A modern, full-featured food product explorer built with **Next.js 15**, powered by the [OpenFoodFacts API](https://world.openfoodfacts.org/).
 
+#live-link:https://delicate-macaron-a6b16b.netlify.app/
 ---
 
 ## 🚀 Features
